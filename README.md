@@ -1,4 +1,4 @@
-Lab Activity 3.3 — Computing and Visualizing Skewness and Kurtosis for Literacy Rate Distribution
+## Lab Activity 3.3 — Computing and Visualizing Skewness and Kurtosis for Literacy Rate Distribution
 Objective
 To compute and visualize the skewness and kurtosis of literacy rate distribution across various Indian states using Python. The goal is to understand the shape, symmetry, and peakedness of the data and interpret its implications for educational development and inequality among states.
 
